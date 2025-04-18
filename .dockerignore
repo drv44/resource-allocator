@@ -1,0 +1,22 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+
+# Git
+.git/
+.gitignore
+
+# Logs and local data
+frontend_log.csv
+results.csv
+
+# System files
+.DS_Store
